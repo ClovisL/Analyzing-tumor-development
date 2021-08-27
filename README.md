@@ -1,5 +1,4 @@
-# matplotlib-challenge
-# MatPlotLib Homework
+# Using MatPlotlib to compare tumor development
 
 ## Compares tumor development in mice over the course of 45 days, with different drug treatments. Generates tables and charts for the report. Final notebook performs the following:
 
