@@ -1,6 +1,6 @@
 # Using MatPlotlib to compare tumor development
 
-## Compares tumor development in mice over the course of 45 days, with different drug treatments. Generates tables and charts for the report. Final notebook performs the following:
+## Compares tumor development in mice over the course of 45 days, with different drug treatments. Generates tables and charts for analysis. Final notebook performs the following:
 
 ### Checks the data for any mouse ID with duplicate time points and removes any data associated with that mouse ID.
 
